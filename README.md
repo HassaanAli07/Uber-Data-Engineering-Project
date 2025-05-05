@@ -1,4 +1,4 @@
-# NYC Taxi Data Pipeline with Mage and MongoDB
+# Uber Taxi Data Pipeline with Mage and MongoDB
 
 This project demonstrates a complete end-to-end data pipeline using Mage for orchestration and MongoDB for storage. The pipeline extracts data from `.csv` files, transforms it using pandas DataFrames within Mage blocks, and loads it into MongoDB collections.
 
